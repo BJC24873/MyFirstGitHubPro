@@ -1,0 +1,4 @@
+include ':app'
+include ':mylauncher'
+include ':musicplayer'
+include ':McuService'
